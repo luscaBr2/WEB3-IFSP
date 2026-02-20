@@ -197,4 +197,8 @@ dependency-reduced-pom.xml
 README.html
 *.iml
 .idea
+<<<<<<< HEAD
 .exercism
+=======
+.exercism
+>>>>>>> branch 'main' of https://github.com/luscaBr2/WEB3-IFSP.git
